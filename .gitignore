@@ -1,0 +1,13 @@
+# Roblox Studio local files
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Rojo output and sourcemaps
+*.sourcemap.json
+build/
+
+# Tooling and OS files
+.rocks/
+.DS_Store
